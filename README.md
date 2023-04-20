@@ -13,3 +13,13 @@ X^2^
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+### Fenced Code Block
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
